@@ -55,3 +55,4 @@ function DocView:draw_line_body(line, x, y)
   end
   return line_height
 end
+
